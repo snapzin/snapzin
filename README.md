@@ -8,4 +8,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snapzin&show_icons=true&theme=dark)
 
- href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
