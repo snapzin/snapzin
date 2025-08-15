@@ -22,11 +22,3 @@
   <img src="https://gifdb.com/images/high/batman-arkham-video-game-iqo9fgjdvmy2ekwg.gif" width="300"/>
 </p>
 
-<img src="assets/batman.gif" width="300"/>
-
-
-<p align="center">
-  <img src="batman.gif" width="300"/>
-</p>
-
-![Batman](https://github.com/user-attachments/assets/a20c3ade-bea2-486f-bd30-859226fc673a)
