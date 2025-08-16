@@ -2,7 +2,7 @@
   <img src="batman.gif" width="300"/>
 </p>
 
-![Batman](https://github.com/user-attachments/assets/a20c3ade-bea2-486f-bd30-859226fc673a)
+![Batman](https://github.com/snapzin/snapzin/blob/main/Batman.gif?raw=true)
 
 ## Hey, I'm Snapzin! 😴
 
