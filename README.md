@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="batman.gif" width="300"/>
-</p>
+
 
 ![Batman](https://github.com/snapzin/snapzin/blob/main/Batman.gif?raw=true)
 
