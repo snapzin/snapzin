@@ -1,9 +1,8 @@
 <div align="center">
   <img src="https://github.com/snapzin/snapzin/blob/main/Batman.gif?raw=true" width="120"/>
 
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Snapzin!+%F0%9F%98%B4;Always+Learning...;Going+Crazy+%F0%9F%A4%AF" alt="Typing SVG" />
-  </h1>
+  <h1>Hey, I'm Snapzin! 😴</h1>
+  <p><b>constantly learning · going crazy · building things</b></p>
 
   <img src="https://komarev.com/ghpvc/?username=snapzin&color=yellow&style=for-the-badge&label=VISITORS" />
 </div>
@@ -45,14 +44,11 @@ const snapzin = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snapzin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snapzin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
+  <img src="https://streak-stats.demolab.com?user=snapzin&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=snapzin&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snapzin&theme=tokyonight" />
 </div>
 
 ---
