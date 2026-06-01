@@ -24,11 +24,11 @@
 
 ## 📊 GitHub Stats
 
-![Snapzin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snapzin&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFA500)
+## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snapzin&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FFD700)
+![Snapzin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=snapzin&show_icons=true&theme=tokyonight&hide_border=true)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snapzin&layout=compact&theme=tokyonight&hide_border=true)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=snapzin&color=yellow&style=flat-square&label=visitors" />
