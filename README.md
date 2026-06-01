@@ -4,6 +4,10 @@
   <h1>Hey, I'm Snapzin! 😴</h1>
   <p><b>constantly learning · going crazy · building things</b></p>
 
+  <a href="https://snapzin-programmer.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-snapzin--programmer.vercel.app-FFD700?style=for-the-badge&labelColor=0d1117" />
+  </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=snapzin&color=yellow&style=for-the-badge&label=VISITORS" />
 </div>
 
@@ -15,6 +19,7 @@ const snapzin = {
   status: "constantly learning... and going crazy 🤯",
   interests: ["low-level programming", "web dev", "dark themes"],
   currently: "building something cool 🚀",
+  portfolio: "https://snapzin-programmer.vercel.app/",
 };
 ```
 
@@ -54,5 +59,9 @@ const snapzin = {
 ---
 
 <div align="center">
+  <a href="https://snapzin-programmer.vercel.app/">
+    <img src="https://img.shields.io/badge/✨_Check_out_my_portfolio!-FFD700?style=for-the-badge&labelColor=0d1117" />
+  </a>
+  <br/><br/>
   <i>🦇 "It's not who I am underneath, but what I do that defines me."</i>
 </div>
