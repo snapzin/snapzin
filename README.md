@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/snapzin/snapzin/blob/main/Batman.gif?raw=true" width="120"/>
 
-  <h1>Hey, I'm Snapzin! 😴</h1>
+  <h1>Hey, I'm Zayon! 😴</h1>
   <p><b>constantly learning · going crazy · building things</b></p>
 
   <a href="https://snapzin-programmer.vercel.app/" target="_blank">
